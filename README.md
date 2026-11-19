@@ -157,7 +157,38 @@ Once the attachment is imported, click on Start Import. This will convert the Ba
 <br><br>
 <img width="1898" height="758" alt="BSI Up4" src="https://github.com/user-attachments/assets/88c255ad-e7ef-4bda-aefa-f05af541d806" />
 
+## Australian GST Setup Guidance
 
+### Supplier Tax Categories
+
+Domestic GST Supplier:
+Used for normal Australian suppliers providing taxable business purchases.
+
+Examples:
+- Office supplies
+- Services
+- Consumables
+
+Capital Goods Supplier:
+Used where purchases are capital acquisitions.
+
+Examples:
+- Machinery
+- Vehicles
+- Computers
+- Production equipment
+
+### Customer Tax Categories
+
+Domestic GST Customer:
+Used for Australian customers where normal 10% GST applies.
+
+Export Customer:
+Used for eligible exports where GST is not charged.
+
+### Item Tax Treatment
+
+Where a supplier provides both capital and non-capital goods, use Item Tax Templates to ensure the correct GST treatment is applied.
 
 ### License
 
